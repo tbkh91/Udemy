@@ -1,0 +1,9 @@
+export const EMAIL_CHANGED = 'auth_email_changed';
+export const PASSWORD_CHANGED = 'auth_password_changed';
+export const LOGIN_USER_SUCCESS = 'auth_login_user_success';
+export const LOGIN_USER_FAILED = 'auth_login_user_failed';
+export const LOGIN_USER = 'auth_login_user';
+export const EMPLOYEE_FORM_UPDATE = 'employee_form_update';
+export const EMPLOYEE_CREATE = 'employee_create';
+export const EMPLOYEES_FETCH_SUCCESS = 'employees_fetch_success';
+export const EMPLOYEE_SAVE_SUCCESS = 'employee_save_success';
